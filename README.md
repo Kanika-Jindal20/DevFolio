@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built using **HTML, CSS, Bootstr
 
 ## 🚀 Live Demo
 
-🔗 https://Kanika-Jindal20.github.io/DevFolio/
+🔗 https://github.com/Kanika-Jindal20/DevFolio.git
 
 
 ---
